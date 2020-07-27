@@ -1,0 +1,3 @@
+otufile	plugins/UniFrac/example/asv_abund.norm.transpose.csv
+mapping	plugins/UniFrac/example/asv_map.csv
+tree	plugins/UniFrac/example/asv_tax.csv

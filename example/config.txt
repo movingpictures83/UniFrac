@@ -1,0 +1,2 @@
+Prefix plugins/UniFrac/example
+Plugin UniFrac inputfile parameters.txt outputfile unifrac.csv
